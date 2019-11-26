@@ -1,4 +1,4 @@
-# cs221_finalproject
+# Steal defect_classfication_segementation channllange
 
 https://www.kaggle.com/ateplyuk/pytorch-starter-u-net-resnet
 
