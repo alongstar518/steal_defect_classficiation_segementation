@@ -1,4 +1,4 @@
-# Steal defect_classfication_segementation channllange
+# Kaggle Steal defect_classfication_segementation 
 
 https://www.kaggle.com/ateplyuk/pytorch-starter-u-net-resnet
 
