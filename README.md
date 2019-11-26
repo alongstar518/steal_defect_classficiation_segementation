@@ -1,6 +1,6 @@
 # Kaggle Steal defect_classfication_segementation 
 
-https://www.kaggle.com/ateplyuk/pytorch-starter-u-net-resnet
+This is implementated in pytorch using different model switching.
 
 TPU example:
 https://github.com/pytorch/xla/tree/master/contrib/colab
