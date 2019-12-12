@@ -1,4 +1,3 @@
 # Kaggle Steal defect_classfication_segementation 
-(Pytorch)
-TPU example:
-https://github.com/pytorch/xla/tree/master/contrib/colab
+Joined last minute, but still did it.
+https://www.kaggle.com/c/severstal-steel-defect-detection
